@@ -15,7 +15,7 @@
 </div>
 <div id="badges" align="center">
   
-  <a href="www.linkedin.com/in/kai-hoang-910520286">
+  <a href="[www.linkedin.com/in/kai-hoang-910520286](https://www.linkedin.com/in/kai-hoang-910520286/)">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -47,7 +47,7 @@
 🪂 **Hobby**: I enjoy exploring emerging technology trends and their impact on businesses. 📈💲
  
  🎷 Reach me at:
-        <a href="www.linkedin.com/in/kai-hoang-910520286">
+        <a href="[www.linkedin.com/in/kai-hoang-910520286](https://www.linkedin.com/in/kai-hoang-910520286/)">
           <img src="https://img.shields.io/badge/Kai Hoang-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         or 
