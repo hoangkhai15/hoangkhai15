@@ -42,7 +42,7 @@
   
 🛠️ **Analytical skills and experience**: Power BI, Tableau; Excel for Data Cleaning, Transformation, and Visualization; Sales Data Analysis; Market Research; E-commerce Optimization; Data Integration and Management for large datasets.
 
-🚀 **Knowledge**: Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology, and I'm constantly learning new tools and skills in Data Analysis/Science.
+🚀 **Knowledge**: Statistics, Requirements Gathering, Business Process Modeling, The ETL/EDA Process, BI Taxonomy, Agile Methodology, and I'm constantly learning new tools and skills in Data Analysis/Science.
 
 🪂 **Hobby**: I enjoy exploring emerging technology trends and their impact on businesses. 📈💲
  
