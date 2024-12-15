@@ -26,7 +26,7 @@
 
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/45b76b9e-afa2-4f0c-add2-405ec6c90ffe" width="400" />
+ <img src="https://github.com/user-attachments/assets/a8c8dcf6-250d-45ec-a207-89b0d40d2ea1" width="800" />
 </div>
 
 
