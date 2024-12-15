@@ -1,16 +1,57 @@
-## Hi there 👋
+<div style="width: 100%; height: 20%; display: flex; align-items:center; gap: 10px">
+  <h1 style=" font-size: 36px;
+  background-image: linear-gradient(to right, rgb(255, 166, 46), rgb(247, 27, 61));
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;">
+  Kai Hoang  </h1>
+</div>
 
-<!--
-**hoangkhai15/hoangkhai15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ilWX7yp3N4fpMGwDMT/giphy.gif" width="180" height="180"/>
+</div>
+<div id="badges" align="center">
+  
+  <a href="www.linkedin.com/in/kai-hoang-910520286">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<h1 align="center">
+ Welcome to my GitHub 
+<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/>
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/45b76b9e-afa2-4f0c-add2-405ec6c90ffe" width="400" />
+</div>
+
+
+
+<h1>
+🔍 About me:
+</h1>
+  
+ I am Kai - a **Data Enthusiast** and  **Business Analyst** 👩‍💻</div>  
+
+
+💼 I’ve just graduated with an MBA in Business Analytics in University of South Autraslia.  
+  
+🛠️ **Analytical skills and experience**: Power BI, Tableau; Excel for Data Cleaning, Transformation, and Visualization; Sales Data Analysis; Market Research; E-commerce Optimization; Data Integration and Management for large datasets.
+
+🚀 **Knowledge**: Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology, and I'm constantly learning new tools and skills in Data Analysis/Science.
+
+🪂 **Hobby**: I enjoy exploring emerging technology trends and their impact on businesses. 📈💲
+ 
+ 🎷 Reach me at:
+        <a href="www.linkedin.com/in/kai-hoang-910520286">
+          <img src="https://img.shields.io/badge/Kai Hoang-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        or 
+        <a href="mailto:khaiten123@gmail.com">
+         <img src="https://img.shields.io/badge/Email Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+      </li>
